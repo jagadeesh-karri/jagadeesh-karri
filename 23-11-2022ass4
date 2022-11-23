@@ -1,0 +1,5 @@
+n=36
+if(n>0):
+    print(n,'+ve')
+else:
+    print(n,'-ve')
