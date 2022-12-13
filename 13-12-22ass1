@@ -1,0 +1,9 @@
+ap=[]
+n=int(input('no of districts'))
+ap.append('vizianagaram')
+ap.append('srikakulam')
+ap.append('visakhapatnam')
+ap.append('guntur')
+print(ap)
+          
+
